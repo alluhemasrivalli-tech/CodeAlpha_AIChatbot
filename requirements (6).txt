@@ -1,0 +1,5 @@
+# Task 4: AI-Powered Chatbot
+# Python 3.8+
+
+flask>=2.3
+pytest>=7.0
